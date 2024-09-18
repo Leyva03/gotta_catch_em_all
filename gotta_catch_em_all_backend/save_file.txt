@@ -1,0 +1,1 @@
+{"x":7,"y":28,"direction":"south","pokedex":{"16":true,"19":true,"201":true}}
