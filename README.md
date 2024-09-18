@@ -38,4 +38,4 @@ The backend will run on http://localhost:8081 (or the port specified in your env
 The frontend will run on http://localhost:8080 (or the port indicated by the server).
 
 ## Playing the Game
-Once both the backend and frontend servers are running, open your browser and go to http://localhost:3000 to start playing.
+Once both the backend and frontend servers are running, open your browser and go to http://localhost:8080 to start playing.
